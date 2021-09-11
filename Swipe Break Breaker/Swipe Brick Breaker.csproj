@@ -115,14 +115,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="bin\Debug\btnimage.jpg" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\btnimage.jpg" />
     <None Include="Resources\ballimage.jpg" />
-    <None Include="bin\Debug\Score.txt" />
-    <None Include="bin\Debug\ballimage.jpg" />
-    <None Include="bin\Debug\Speech Misrecognition.wav" />
     <Content Include="IMG_20190320_014429_325.ico" />
   </ItemGroup>
   <ItemGroup>
